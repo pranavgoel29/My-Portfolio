@@ -1,5 +1,16 @@
 # Personal-Portfolio
 
+<br>
+
+<a href="https://github.com/pranavgoel29/My-Portfolio/stargazers"><img src="https://img.shields.io/github/stars/pranavgoel29/My-Portfolio" alt="Stars Badge"/></a>
+<a href="https://github.com/pranavgoel29/My-Portfolio/network/members"><img src="https://img.shields.io/github/forks/pranavgoel29/My-Portfolio" alt="Forks Badge"/></a>
+<a href="https://github.com/pranavgoel29/My-Portfolio/pulls"><img src="https://img.shields.io/github/issues-pr/pranavgoel29/My-Portfolio" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/pranavgoel29/My-Portfolio/issues"><img src="https://img.shields.io/github/issues/pranavgoel29/My-Portfolio" alt="Issues Badge"/></a>
+<a href="https://github.com/pranavgoel29/My-Portfolio/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pranavgoel29/My-Portfolio?color=2b9348"></a>
+<a href="https://github.com/pranavgoel29/My-Portfolio/blob/main/LICENSE"><img src="https://img.shields.io/github/license/pranavgoel29/My-Portfolio?color=2b9348" alt="License Badge"/></a>
+
+<br>
+
 
 ## Available Scripts
 
