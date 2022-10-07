@@ -7,7 +7,7 @@ const Data = () => {
         <img src="../src/assets/hand.svg" alt="" />
         </h1>
 
-        <h3 className="home__substitle">Visual Designer</h3>
+        <h3 className="home__substitle">Frontend Developer</h3>
         <p className="home__description">
             I'm Frontend developer based in India, and I'm really passionate and dedicated to my work.
         </p> 
