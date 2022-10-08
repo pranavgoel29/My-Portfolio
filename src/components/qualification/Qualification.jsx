@@ -81,7 +81,7 @@ const Qualification = () => {
               </div>
             </div>
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Matriculation</h3>
                 <span className="qualification__subtitle">India - DDPS</span>
@@ -94,7 +94,7 @@ const Qualification = () => {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div>
+            </div> */}
 
             {/* <div className="qualification__data">
               <div></div>
